@@ -1,0 +1,10 @@
+#avaregePrice {
+    background-color: rgb(231,234,234);
+    text-align:center;
+    width: 150px;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    float: right;
+    border-radius: 8px;
+}
